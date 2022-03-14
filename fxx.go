@@ -29,3 +29,7 @@ func joinConstructor(modules ...interface{}) []interface{} {
 
 	return _modules
 }
+
+func Modules(modules ...interface{}) []interface{} {
+	return modules
+}
