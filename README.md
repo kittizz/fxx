@@ -20,6 +20,6 @@ coming soon...
 
 
 [doc-img]: http://img.shields.io/badge/GoDoc-Reference-blue.svg
-[doc]: https://godoc.org/go.uber.org/fx
+[doc]: https://godoc.org/github.com/kittizz/fxx
 
  
